@@ -1,7 +1,58 @@
 #EXTM3U 
 
-####################################### TAIWAN CHANNELS ###############################################
+####################################### ENTERTAINMENT CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdianying.jpg" group-title="ENTERTAINMENT 娱乐",NewTV 精品电影
+http://223.110.243.149/PLTV/3/224/3221225567/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjpdj.jpg" group-title="ENTERTAINMENT 娱乐",NewTV 精品大剧
+http://223.110.243.149/PLTV/3/224/3221225569/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P4262300110-L.jpg" group-title="ENTERTAINMENT 娱乐",NewTV 爱情喜剧
+http://223.110.243.149/PLTV/3/224/3221225525/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262246003C.jpg" group-title="ENTERTAINMENT 娱乐",NewTV 古装剧场
+http://223.110.243.149/PLTV/3/224/3221225527/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262226352Z.jpg" group-title="ENTERTAINMENT 娱乐",NewTV 军旅剧场
+http://223.110.243.149/PLTV/3/224/3221225531/.m3u8
 
+####################################### SPORTS CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170103/1-1F1031Q42aX.jpg" group-title="SPORTS 运动",CCTV5高清
+http://111.48.34.189/wh7f454c46tw3736443398_350444213/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225800/index.m3u8?icpid=88888888&RTS=1534499828&from=1&hms_devid=1323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170103/1-1F1031Q42aX.jpg" group-title="SPORTS 运动",CCTV5+高清
+http://111.48.34.186/wh7f454c46tw3309550809_1898280259/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8?icpid=88888888&RTS=1533140382&from=1&hms_devid=1303
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.360zhibo.com/images/cover/1492703181.jpg" group-title="SPORTS 运动",劲爆体育
+http://223.110.243.155/PLTV/2/224/3221226045/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myfile.icantv.cn/uploads/file/img/wxty.jpg" group-title="SPORTS 运动",五星体育高清
+http://111.48.34.189/wh7f454c46tw3776871915_395289886/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/index.m3u8?icpid=88888888&RTS=1533140886&from=1&hms_devid=1323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="SPORTS 运动",辽宁体育
+http://39.134.52.172/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225838/index.m3u8
+
+####################################### FAMILY CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://goodtv.tv/images/channel/ch68.jpg" group-title="FAMILY 家庭",好消息电视台 GOODTV 转转发现爱
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch40-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://goodtv.tv/images/channel/ch69.jpg" group-title="FAMILY 家庭",好消息电视台 GOODTV 幸福学堂
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch41-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://goodtv.tv/images/channel/ch70.jpg" group-title="FAMILY 家庭",好消息电视台 GOODTV 爱＋好医生
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch43-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://goodtv.tv/images/channel/ch72.jpg" group-title="FAMILY 家庭",好消息电视台 GOODTV 幸福家庭
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch43-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch73.jpg" group-title="FAMILY 家庭",好消息电视台 GOODTV 烤箱读书会
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch44-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch74.jpg" group-title="FAMILY 家庭",好消息电视台 GOODTV 卡通
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch75.jpg" group-title="FAMILY 家庭",好消息电视台 GOODTV 少年体验队
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch46-3.m3u8
+
+####################################### RELIGION CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/godtv.png" group-title="RELIGION 宗教",ASIA | GOD TV
+https://ooyalahd2-f.akamaihd.net/i/godtv05_delivery@17436/index_1164_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/godtv.png" group-title="RELIGION 宗教",AUSTRALA | GOD TV
+https://ooyalahd2-f.akamaihd.net/i/godtv04_delivery@17353/index_1164_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/hillsongchannel.png" group-title="RELIGION 宗教",AUSTRALA | HILLSONG CHANNEL [COLOR springgreen][I]church service live[/I][/COLOR]
+https://playback.akamaized.net/streams/27460990_8266909_lsigawfu7fu6ogmdlxm_1/media/27460990_8266909_lsigawfu7fu6ogmdlxm_1@2756000pb.m3u8?dw=14400&ts=1532404800&hdnts=exp=1532578464~acl=/streams/27460990_8266909_lsigawfu7fu6ogmdlxm_1/media*~hmac=c03e7637d7fad724b9c3916df54b97d2ff51d431f73d0894e686f160414c2ffe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/amazingdiscoveries.jpg" group-title="RELIGION 宗教",CANADA | AMAZING DISCOVERIES
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w963416714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/hopechannel.gif" group-title="RELIGION 宗教",CANADA | HOPE CHANNEL
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8
+
+####################################### TAIWAN CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P426162934N2.jpg" group-title="TAIWAN 台湾",民视 FTV
 rtmp://kv3.tp33.net/sat/tv051 swfVfy=true live=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50501142cC.jpg" group-title="TAIWAN 台湾",民视新闻台 FTV
@@ -102,6 +153,64 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KOqvKR
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zHNYHmIo-_w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PQ3234T00-L.jpg" group-title="TAIWAN 台湾",年代新闻台
 http://60.250.23.14:18080/eranews/index.m3u8
+
+####################################### HONG KONG CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P322210400B3.jpg" group-title="HONG KONG 香港",TVB 翡翠台 TVB JADE
+http://123.207.42.38/tvb.php?type=jade
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZG925S9.jpg" group-title="HONG KONG 香港",TVB 无线新闻台 TVB NEWS CHANNEL
+http://s-423975.gotocdn.com:6330/v/inews.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P3111915460-L.jpg" group-title="HONG KONG 香港",TVB 明珠台 PEARL
+http://116.199.5.51:8114/00000000/f4c37156bd2248db8ada5a7fda6bee3b/index.m3u8?AuthInfo=dqPFRQ30xh2fPpSVXfi%2BSEKMNSKnze3p%2BRHHBpfXkM5JDsIw0f%2Fto%2FJ76pL9lIl22Eq69%2Fxrc1t2%0AP9QZ81dLMm0%2BDQL9eKxDSk%2FeJV6Dkus%3D%0A&version=9&FvSeid=5ad23cede5d9e75e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1053&Fsv_chan_hls_se_idx=31&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=f4c37156bd2248db8ada5a7fda6bee3b&Fsv_CMSID=00000000&Fsv_otype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P3162140540-L.jpg" group-title="HONG KONG 香港",TVB 无线财经资讯台 FINANCE & INFORMATION CHANNEL
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P50923500OB.jpg" group-title="HONG KONG 香港",TVB星河频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P42R0564A63.jpg" group-title="HONG KONG 香港",TVB8
+http://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/170911/1-1F9112255450-L.jpg" group-title="HONG KONG 香港",TVB 娱乐新闻台 ENTERTAINMENT NEWS
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+
+####################################### CCTV CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P3221K936337.jpg" group-title="CCTV 中央电视台",CCTV1 综合 高清
+http://223.110.245.169/PLTV/3/224/3221225530/index.m3u8?icpid=88888888&from=0&ocs=2_223.110.245.134_80&hms_devid=43,724
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P3221K402528.jpg" group-title="CCTV 中央电视台",CCTV2 财经 高清
+http://223.110.243.148/PLTV/4/224/3221226993/index.m3u8?icpid=88888888&from=0&hms_devid=2564,2704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/161229/1-1612292119203A.jpg" group-title="CCTV 中央电视台",CCTV3 综艺 高清
+http://111.20.45.154/wh7f454c46tw3205198859_22402827/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225546/index.m3u8?icpid=88888888&RTS=1532941152&from=1&hms_devid=583
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P525203500491.jpg" group-title="CCTV 中央电视台",CCTV4 中文国际 高清
+http://223.110.243.162/PLTV/4/224/3221227378/index.m3u8?icpid=88888888&from=0&hms_devid=2644,2724
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170103/1-1F1031Q42aX.jpg" group-title="CCTV 中央电视台",CCTV5 体育 高清
+http://111.48.34.189/wh7f454c46tw1978098733_435220967/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225800/index.m3u8?icpid=88888888&RTS=1534496921&from=1&hms_devid=1323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170103/1-1F1031Q42aX.jpg" group-title="CCTV 中央电视台",CCTV5+ 体育赛事 高清
+http://111.48.34.186/wh7f454c46tw3309550809_1898280259/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8?icpid=88888888&RTS=1533140382&from=1&hms_devid=1303
+
+####################################### CHINA CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P426225Q10-L.jpg" group-title="CHINA 中国",NewTV 搏击
+http://223.110.243.149/PLTV/3/224/3221226656/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvgongfu.jpg" group-title="CHINA 中国",NewTV 中国功夫
+http://223.110.243.149/PLTV/3/224/3221226935/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjspl.jpg" group-title="CHINA 中国",NewTV 军事评论
+http://223.110.243.149/PLTV/3/224/3221225533/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="CHINA 中国",NewTV 精品记
+http://223.110.243.149/PLTV/3/224/3221225557/.m3u8
+
+####################################### AUSTRALIA CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P6092202230-L.jpg" group-title="AUSTRALIA 澳洲",ABC NEWS
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png" group-title="AUSTRALIA 澳洲",EXPO CHANNEL
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G50S00-L.jpg" group-title="AUSTRALIA 澳洲",TV2
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=taadmbHy0BQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G513020-L.jpg" group-title="AUSTRALIA 澳洲",WTV PERTH
+https://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_1/chunklist_dvr.m3u8
+
+####################################### CANADA CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://partner.ulango.tv/uploads/channels/3782208/logo_netv%20%7C%20hellenic%20webtv.png" group-title="CANADA 加拿大",NET TV TORONTO
+rtmp://live.streams.ovh:1935/NetvToronto/NetvToronto swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ctvnews.ca/polopoly_fs/1.846393.1459491012!/httpImage/image.jpeg_gen/derivatives/landscape_960/image.jpeg" group-title="CANADA 加拿大",CTV-NEWS48
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+
+
 
 
 
