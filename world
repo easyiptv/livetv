@@ -243,13 +243,13 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 ####################################### SINGAPORE CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg/revision/latest/scale-to-width-down/340?cb=20120613095225" group-title="新加坡 SINGAPORE",5頻道 MEDIACORP CHANNEL 5
 https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://video.toggle.sg/image/5166818/16x9/947/533/e298594e61926869a7a2e9b2ab5d3073/qA/channel-8.png" group-title="马来西亚 MALAYSIA",8頻道 MEDIACORP CHANNEL 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://video.toggle.sg/image/5166818/16x9/947/533/e298594e61926869a7a2e9b2ab5d3073/qA/channel-8.png" group-title="新加坡 SINGAPORE",8頻道 MEDIACORP CHANNEL 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHSHgw_4n9N3xr0eruCeP2wPIG9TzptQcj1xwB94Hjp8IPeQH" group-title="马来西亚 MALAYSIA",U頻道 MEDIACORP CHANNEL U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHSHgw_4n9N3xr0eruCeP2wPIG9TzptQcj1xwB94Hjp8IPeQH" group-title="新加坡 SINGAPORE",U頻道 MEDIACORP CHANNEL U
 https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Okto_2D.png/revision/latest?cb=20151212044939" group-title="马来西亚 MALAYSIA",MEDIACORP OKTO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Okto_2D.png/revision/latest?cb=20151212044939" group-title="新加坡 SINGAPORE",MEDIACORP OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Surialogo700x525_20130517103430.jpg/revision/latest?cb=20161026075708" group-title="马来西亚 MALAYSIA",MEDIACORP SURIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Surialogo700x525_20130517103430.jpg/revision/latest?cb=20161026075708" group-title="新加坡 SINGAPORE",MEDIACORP SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
 
 
@@ -260,7 +260,7 @@ http://123.108.164.71/etv2/phd847/playlist.m3u8
 http://123.108.164.71/etv2/phd847/chunklist_w505134090.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50920434G26.jpg" group-title="韩国 KOREA",GoodTV
 http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="]韩国 KOREA",CBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5092104250-L.jpg" group-title="韩国 KOREA",CJ购物台
 http://edge1.everyon.tv/etv1sb/phd1057/chunklist_w401758269.m3u8
@@ -317,11 +317,11 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=taadmb
 https://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_1/chunklist_dvr.m3u8
 
 ####################################### NEW ZEALAND CHANNELS ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fijitv_small_logo_new.png" group-title="]纽西兰 NEW ZEALAND",FIJI ONE [COLOR red][I]link down[/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fijitv_small_logo_new.png" group-title="纽西兰 NEW ZEALAND",FIJI ONE [COLOR red][I]link down[/I][/COLOR]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" logo= "https://en.wikipedia.org/wiki/File:The_Edge_(radio_station)_logo.png" group-title="]纽西兰 NEW ZEALAND",THE EDGE [COLOR red][I]link down[/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" logo= "https://en.wikipedia.org/wiki/File:The_Edge_(radio_station)_logo.png" group-title="纽西兰 NEW ZEALAND",THE EDGE [COLOR red][I]link down[/I][/COLOR]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" logo= "http://www.nettv.live/uploads/allimg/170528/1-1F52Q324330-L.jpg" group-title="]纽西兰 NEW ZEALAND",TVSN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" logo= "http://www.nettv.live/uploads/allimg/170528/1-1F52Q324330-L.jpg" group-title="纽西兰 NEW ZEALAND",TVSN
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YK2NVD2zAHY
 
 
