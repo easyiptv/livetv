@@ -316,15 +316,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=taadmb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G513020-L.jpg" group-title="澳洲 AUSTRALIA",WTV PERTH
 https://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_1/chunklist_dvr.m3u8
 
-####################################### NEW ZEALAND CHANNELS ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fijitv_small_logo_new.png" group-title="纽西兰 NEW ZEALAND",FIJI ONE [COLOR red][I]link down[/I][/COLOR]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" logo= "https://en.wikipedia.org/wiki/File:The_Edge_(radio_station)_logo.png" group-title="纽西兰 NEW ZEALAND",THE EDGE [COLOR red][I]link down[/I][/COLOR]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" logo= "http://www.nettv.live/uploads/allimg/170528/1-1F52Q324330-L.jpg" group-title="纽西兰 NEW ZEALAND",TVSN
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YK2NVD2zAHY
-
-
 
 
 
