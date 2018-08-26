@@ -22,4 +22,87 @@ rtmp://kv3.tp33.net/sat/tv111 swfVfy=true live=true
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TL8mmew3jb8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50G04243A2.jpg" group-title="TAIWAN 台湾",原住民电视台 TITV
 https://t-180802.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P4231R4102J.jpg" group-title="TAIWAN 台湾",壹新闻 NEXT TV
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P31011310a51.jpg" group-title="TAIWAN 台湾",台视新闻 HD
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yk2CUjbyyQY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P6260923210-L.jpg" group-title="TAIWAN 台湾",客家电视 HAKKA TV
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hqe4Bv4qXQo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P3101222530-L.jpg" group-title="TAIWAN 台湾",欢乐台 TVBS
+http://210.201.54.102/gtlive/tvbsg/chunklist_w1925537168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50315591K62.jpg" group-title="TAIWAN 台湾",东森新闻 EBC CH51
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u5X_hiHtKkM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfF5obeOl165iGMCHj46ygke6cAjFR4nKrz3PA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",东森财经新闻 EBC FINANCIAL NEWS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DcUtIhHlzyQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGPjW2ocnJX4Xw8_QaqZzBtG6oY1xCPQWI6sA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",东森购物台 ETMALL CH46
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=S9Gz3urbA2s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGPjW2ocnJX4Xw8_QaqZzBtG6oY1xCPQWI6sA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",东森购物台 ETMALL CH60
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CGo34v-Tmkg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGPjW2ocnJX4Xw8_QaqZzBtG6oY1xCPQWI6sA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",东森购物台 SENSENGO
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cffb75MwHH0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P310115035621.jpg" group-title="TAIWAN 台湾",靖天卡通台
+http://61.58.60.230:9000/live/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P310114K14b.jpg" group-title="TAIWAN 台湾",靖天娱乐台
+http://61.58.60.230:9000/live/201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P310115F00-L.jpg" group-title="TAIWAN 台湾",靖洋戏剧台
+http://61.58.60.230:9000/live/203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P310113930b6.jpg" group-title="TAIWAN 台湾",靖天资讯台
+http://61.58.60.230:9000/live/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P310114K14b.jpg" group-title="TAIWAN 台湾",靖天育乐台
+http://61.58.60.230:9000/live/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P524233339615.jpg" group-title="TAIWAN 台湾",靖天国际台
+http://61.58.60.230:9000/live/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/170124/1-1F1242120340-L.jpg" group-title="TAIWAN 台湾",三立都会台
+http://60.250.23.14:18080/setcity/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P61115255U94.jpg" group-title="TAIWAN 台湾",三立台湾台
+http://125.227.35.176:18080/set/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9dGzYQPYgZM/AAAAAAAAAAI/AAAAAAAAAAA/RbEsUjH1_Ho/s288-mo-c-c0xffffffff-rj-k-no/photo" group-title="TAIWAN 台湾",三立LIVE新闻
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4ZVUmEUFwaY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGo23l7h8gPkhWJychMdOop9XODHrEl13eb_w=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",三立iNEWS新闻
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TtvxRcZbPM0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfE5Ngu5TBsPgcy03RkU2Prk2uQWEymwwS8dsA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",中天新闻 CTI
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wUPPkSANpyo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PF21500270-L.jpg" group-title="TAIWAN 台湾",寰宇新闻
+http://pulllive-al.wasu.cn/live/1528461345367108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P430225332926.jpg" group-title="TAIWAN 台湾",非凡新闻台 USTV
+http://210.201.54.102/gtlive/ustvhd/chunklist_w172372370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfHmrU5unmEYsBBM5s6PHhG7kIuDWsSFzUfPfA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",新唐人亚太台 NTD TV
+http://www.ntdtv.com.tw/mlt/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfFzMYjGnb1Z-IP8Xm-J3CP2kIEDuNlRNyGnWg=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",中华财经台 CSTV
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=76pZJv-LQkY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfETXum7kKLzb4fEfuleh-Fmrbs12RAxA1c9zg=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",全球财经台
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nkMlKhl6tzA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfEwyyWnWAuwPKtFCjRCanrg21Ob5TAX7sy6nw=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",运通财经台 EFTV
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DWv4d42YlfA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TAIWAN 台湾",国会频道2
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TZ4Nf7ZwfTw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfFzccZmvTpwYjqZz5CWaORuCQi8yFalSVNnCw=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",幼幼台 YOYO TV
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XVoqoJxNkRA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfHG0R8RWenI8cb3_c2qf1KXq7vURoAyfnDePA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",宝宝巴士 TV 1
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5BPFt1fGYeI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfHG0R8RWenI8cb3_c2qf1KXq7vURoAyfnDePA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",宝宝巴士 TV 2
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OtcW72aUQEk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfHQ2Th19fv4PbfB2MCVJh6VSHsV1EG1f3lf3w=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",全大衛星電視台
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pWDFuHkp-Ps
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfFQ2_CjLnsLOf6WM5U11bvKBYaEdq5R3WkxNA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",信大电视台 SINDA TV
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0tn1DUV66ng
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfH0Ehimkh6AbMEwJyqyf0Eq-dwpfAfYcIk5IQ=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",番薯卫星电视台 FANS TV
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WbuGJ5R4-Ys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGCu3m19S9AziYhWvDyJ0dY2vn-OqD4WiDXcA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",信吉卫星电视台 SJTV
+http://220.130.241.203:1935/sjtv/livestream_720p/chunklist_w1792074336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGzn-uWjBETljmE-r4aRKDFrsX-FjhBz4JyuQ=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",富立卫星电视台 FLTV
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7IxH38h8Hqc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P50F10A40-L.jpg" group-title="TAIWAN 台湾",优视频道 U CHANNEL
+http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfHLgcIXTixHvW3l9ct_izEahbSgl4-Mt94GYA=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",天良电视台 FTLTV
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SHqgt3FoV5o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfEH9QMHXeIR7OzRxvk_xYtHZqJvrUBOVO8g0Q=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",MOMO购物一台 CH35
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KOqvKRVg7nI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfEH9QMHXeIR7OzRxvk_xYtHZqJvrUBOVO8g0Q=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",MOMO购物一台 CH48
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zHNYHmIo-_w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PQ3234T00-L.jpg" group-title="TAIWAN 台湾",年代新闻台
+http://60.250.23.14:18080/eranews/index.m3u8
+
+
+
 
