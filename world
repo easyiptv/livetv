@@ -1,1 +1,26 @@
 
+#EXTM3U 
+
+####################################### TAIWAN CHANNELS ###############################################
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P426162934N2.jpg" group-title="TAIWAN 台湾",民视 FTV
+rtmp://kv3.tp33.net/sat/tv051 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50501142cC.jpg" group-title="TAIWAN 台湾",民视新闻台 FTV
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5151R0450-L.jpg" group-title="TAIWAN 台湾",民视台湾台
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv001/master.m3u8?token=ATIeZq-FxrvOnF-b86CLiA&expires=1534773653&refer=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5142240060-L.jpg" group-title="TAIWAN 台湾",民视第一台
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv003/master.m3u8?token=eNiUQr9ZUy3BXAcEQxYfBw&expires=1534773553&refer=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P602110311945.jpg" group-title="TAIWAN 台湾",CHANNEL V 音乐台
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P3101123210-L.jpg" group-title="TAIWAN 台湾",台视 TTV
+rtmp://kv3.tp33.net/sat/tv071 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P514230523208.jpg" group-title="TAIWAN 台湾",中视 CTV
+rtmp://kv3.tp33.net/sat/tv091 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P3101213540-L.jpg" group-title="TAIWAN 台湾",华视 CTS
+rtmp://kv3.tp33.net/sat/tv111 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfG20t7Ftkhb27b7NZHF1F72klrt_wbCiPqiFg=s288-mo-c-c0xffffffff-rj-k-no" group-title="TAIWAN 台湾",华视新闻 CTS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TL8mmew3jb8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50G04243A2.jpg" group-title="TAIWAN 台湾",原住民电视台 TITV
+https://t-180802.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8
+
