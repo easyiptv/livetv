@@ -288,7 +288,30 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch44-3.m3
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch75.jpg" group-title="FAMILY 家庭",好消息电视台 GOODTV 少年体验队
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch46-3.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfG6X_Ed_IGsbhA4nM35K_gPTjQ0x1iuADIJQg=s288-mo-c-c0xffffffff-rj-k-no" group-title="FAMILY 家庭",3ABN KIDS NETWORK
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=P1ypsVzVyzI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://a1.att.hudong.com/32/19/20300543365229144794191284833_s.jpg" group-title="FAMILY 家庭",嘉佳卡通
+http://stream1.grtn.cn/jjkt/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P521161AA25.jpg" group-title="FAMILY 家庭",广东少儿 TVS5
+http://stream1.grtn.cn/tvs5/sd/live.m3u8?ts$http://s-423975.gotocdn.com:6330/gdtv.php?id=38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P12620095L12.jpg" group-title="FAMILY 家庭",深圳少儿
+http://www.szmgiptv.com:14436/hls/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1_02201613533446.jpg" group-title="FAMILY 家庭",优漫卡通 [COLOR red][I]link down[/I][/COLOR]
+http://223.110.243.158/PLTV/2510088/224/3221227126/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P501135151462.jpg" group-title="FAMILY 家庭",动漫秀场
+http://111.48.34.177/wh7f454c46tw1670395908_1002092432/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225778/index.m3u8?icpid=88888888&RTS=1533136740&from=1&hms_devid=1083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P426231059615.jpg" group-title="FAMILY 家庭",炫动卡通
+http://111.48.34.178/wh7f454c46tw3371271523_1429141745/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225838/index.m3u8?icpid=88888888&RTS=1533137213&from=1&hms_devid=1023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P604203405305.jpg" group-title="FAMILY 家庭",金鹰卡通
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=287
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170102/1-1F102202644618.jpg" group-title="FAMILY 家庭",福建少儿频道
+http://stream6.fjtv.net/child/playlist.m3u8?_upt=b587f22c1533003918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1_0222214I922J.jpg" group-title="FAMILY 家庭",河北少儿
+http://weblive.hebtv.com/live/hbse_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P505205406394.jpg" group-title="FAMILY 家庭",CCTV14 少儿 高清
+http://223.110.243.150/PLTV/3/224/3221227409/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P604123529562.jpg" group-title="FAMILY 家庭",7妇女儿童高清
+http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
 ####################################### RELIGION CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/godtv.png" group-title="宗教 RELIGION",ASIA | GOD TV
 https://ooyalahd2-f.akamaihd.net/i/godtv05_delivery@17436/index_1164_av-p.m3u8
