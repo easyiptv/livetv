@@ -138,6 +138,140 @@ http://223.110.243.155/PLTV/2/224/3221226045/1.m3u8
 http://111.48.34.189/wh7f454c46tw3776871915_395289886/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/index.m3u8?icpid=88888888&RTS=1533140886&from=1&hms_devid=1323
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",辽宁体育
 http://39.134.52.172/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225838/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zuiaishiting.com/img/tv/gd40.jpg" group-title="运动 SPORTS",高尔夫频道
+http://stream1.grtn.cn/grfpd/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.uc.cn/o/wemedia/s/upload/1705221428ede8c8ff770080eb1489ac9e2c1b2e35;,3,jpegx;3,310x" group-title="运动 SPORTS",极速汽车
+http://111.48.34.229/wh7f454c46tw3862197601_2120224308/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225780/index.m3u8?icpid=88888888&RTS=1533173310&from=1&hms_devid=1043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="运动 SPORTS",游戏风云
+http://111.48.34.215/wh7f454c46tw2076328552_102819778/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225779/index.m3u8?icpid=88888888&RTS=1533136959&from=1&hms_devid=1443
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P60420161Q14.jpg" group-title="运动 SPORTS",快乐垂钓
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=218
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P6042025244W.jpg" group-title="运动 SPORTS",先锋乒羽
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=329
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.360zhibo.com/images/cover/1492733751.jpg" group-title="运动 SPORTS",深圳体育健康
+http://www.szmgiptv.com:14436/hls/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",新疆体育健康
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",福建体育
+http://stream6.fjtv.net/typd/playlist.m3u8?_upt=2977272f1533184565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170102/1-1F102202U4464.jpg" group-title="运动 SPORTS",福建体育频道
+http://stream6.fjtv.net/typd/playlist.m3u8?_upt=2b87f9911533003638
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/guangzjs.jpg" group-title="运动 SPORTS",广州竞赛
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",美国高尔夫频道
+http://nscreenn-chtmod.cdn.hinet.net/live/The_Golf_Channel/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2017/11/Eleven_Sports_1_330x182.jpg" group-title="运动 SPORTS",ELEVEN SPORT 1
+http://nscreenn-chtmod.cdn.hinet.net/live/ELEVEN/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2017/11/Eleven_Sports_2_330x182.jpg" group-title="运动 SPORTS",ELEVEN SPORT 2
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2013/01/Pic-ESPN-Logo-660x400.jpg" group-title="运动 SPORTS",ESPN
+http://cshms4.airtel.tv/wh7f454c46tw3255471831_800883210/PLTV/88888888/224/3221226076/index.m3u8?icpid=88888888&RTS=1533174237&from=0&hms_devid=23,63
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaqOj9qpDG9OH8y4qlExlBJ-A305xsYQY9w1Lgh-Ii6c_l9XeeQ" group-title="运动 SPORTS",超级体育1
+http://111.48.34.236/wh7f454c46tw210714913_121796751/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225799/index.m3u8?icpid=88888888&RTS=1533174294&from=1&hms_devid=1263
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaqOj9qpDG9OH8y4qlExlBJ-A305xsYQY9w1Lgh-Ii6c_l9XeeQ" group-title="运动 SPORTS",超级体育2
+http://111.48.34.229/wh7f454c46tw4065476193_1914772050/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225803/index.m3u8?icpid=88888888&RTS=1533174399&from=1&hms_devid=1043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaqOj9qpDG9OH8y4qlExlBJ-A305xsYQY9w1Lgh-Ii6c_l9XeeQ" group-title="运动 SPORTS",超级体育3
+http://111.48.34.181/wh7f454c46tw4104508597_516148389/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225805/index.m3u8?icpid=88888888&RTS=1533174492&from=1&hms_devid=1103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaqOj9qpDG9OH8y4qlExlBJ-A305xsYQY9w1Lgh-Ii6c_l9XeeQ" group-title="运动 SPORTS",超级体育4
+http://111.48.34.236/wh7f454c46tw2906050870_592750902/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225806/index.m3u8?icpid=88888888&RTS=1533174492&from=1&hms_devid=1263
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaqOj9qpDG9OH8y4qlExlBJ-A305xsYQY9w1Lgh-Ii6c_l9XeeQ" group-title="运动 SPORTS",超级体育5
+http://111.48.34.174/wh7f454c46tw1102108207_2034713008/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225804/index.m3u8?icpid=88888888&RTS=1533174541&from=1&hms_devid=1423
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaqOj9qpDG9OH8y4qlExlBJ-A305xsYQY9w1Lgh-Ii6c_l9XeeQ" group-title="运动 SPORTS",超级体育6
+http://111.48.34.232/wh7f454c46tw3525000226_1509420571/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8?icpid=88888888&RTS=1533174554&from=1&hms_devid=1303
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaqOj9qpDG9OH8y4qlExlBJ-A305xsYQY9w1Lgh-Ii6c_l9XeeQ" group-title="运动 SPORTS",超级体育7
+http://111.48.34.228/wh7f454c46tw3508244756_1191699739/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/index.m3u8?icpid=88888888&RTS=1533174573&from=1&hms_devid=1143
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.yuqiu8.com/uploadfile/2016/0709/20160709124051986.jpg" group-title="运动 SPORTS",广东体育
+http://s-423975.gotocdn.com:6330/v/gdty1.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.yuqiu8.com/uploadfile/2016/0709/20160709124051986.jpg" group-title="运动 SPORTS",广东体育高清
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P426222R1296.jpg" group-title="运动 SPORTS",NewTV 精品体育
+http://223.110.243.149/PLTV/3/224/3221225543/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thestandard.com.hk/images/instant_news/20170421/2017042114135287991contentPhoto1.JPG" group-title="运动 SPORTS",有线体育2台 I-CABLE SPORTS CHANNEL 2
+rtmp://kv3.tp33.net:1935/sat/hk011 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",体育台
+rtmp://kv3.tp33.net:1935/sat/hk021 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1PF50951294C.jpg" group-title="运动 SPORTS",纬来体育台
+rtmp://kv3.tp33.net/sat/tv721 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cns.net.tw/web/upload/20180201091419LwpHJX7.png" group-title="运动 SPORTS",博斯运动 1
+rtmp://kv3.tp33.net:1935/sat//md011 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P430220I10-L.jpg" group-title="运动 SPORTS",博斯魅力
+rtmp://wv4.tp33.net/sat//md031 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P4302159130-L.jpg" group-title="运动 SPORTS",博斯运动 2
+rtmp://kv3.tp33.net:1935/sat/md051 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/ex515/images/0/07/FoxSports1.png/revision/latest?cb=20150827221448" group-title="运动 SPORTS",FOX 体育台
+rtmp://kv3.tp33.net/sat/tv731 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Fox_sports_2.png/revision/latest?cb=20160123012609" group-title="运动 SPORTS",FOX 2 体育台
+rtmp://kv3.tp33.net/sat/tv741 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="运动 SPORTS",FOX 3 体育台
+rtmp://kv3.tp33.net/sat/md041 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="运动 SPORTS",FOX NBA 
+rtmp://kv3.tp33.net:1935/sat/us011 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="运动 SPORTS",FOX SUN 
+rtmp://kv3.tp33.net:1935/sat/us051 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="运动 SPORTS",FOX 体育
+rtmp://kv3.tp33.net:1935/sat/us081 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mlb.mlb.com/assets/images/2/0/6/194593206/cuts/mlbn_logo_3_956el63k_fq2utdwc.png" group-title="运动 SPORTS",MLB
+rtmp://kv3.tp33.net:1935/sat/us041 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://travesteefilms.com/wp-content/uploads/2012/04/NBC4Washington.jpg" group-title="运动 SPORTS",NBC-4
+rtmp://kv3.tp33.net:1935/sat/us121 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",NBC-UNIVERSO
+rtmp://kv3.tp33.net:1935/sat/us151 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",SKY 体育足球
+rtmp://kv3.tp33.net:1935/sat/us101 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",SPORTSMAN 运动家
+rtmp://kv3.tp33.net:1935/sat/us071 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",BS
+rtmp://kv3.tp33.net:1935/sat/jp071 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",FOX 体育
+rtmp://kv3.tp33.net:1935/sat/jp051 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqettOWQ4Hs_0ke9v0_VNrjLENBaHZuVG79YW-eL2baOCZoOSAQ" group-title="运动 SPORTS",GAORA
+rtmp://kv3.tp33.net:1935/sat/jp021 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqettOWQ4Hs_0ke9v0_VNrjLENBaHZuVG79YW-eL2baOCZoOSAQ" group-title="运动 SPORTS",GREEN
+rtmp://wv4.tp33.net:1935/sat/jp081 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cyclesports.jp/sites/default/files/3194_jspo2.jpg" group-title="运动 SPORTS",JSPORTS 1
+rtmp://kv3.tp33.net:1935/sat/jp061 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccer.myjcom.jp/images/ch-jsports2.png" group-title="运动 SPORTS",JSPORTS 2
+rtmp://kv3.tp33.net:1935/sat/jp041 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports-3.jpg" group-title="运动 SPORTS",JSPORTS 3
+rtmp://kv3.tp33.net:1935/sat/jp031 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports-3.jpg" group-title="运动 SPORTS",日本棒球
+rtmp://kv3.tp33.net:1935/sat/jp101 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P426210540646.jpg" group-title="运动 SPORTS",纬来育乐台
+rtmp://kv3.tp33.net/sat/tv701 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P430214ZQ91.jpg" group-title="运动 SPORTS",爱尔达体育3台
+rtmp://kv3.tp33.net/sat/md021 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="运动 SPORTS",爱尔达育乐台 ELTA
+rtmp://kv3.tp33.net/sat/md031 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PG1220H90-L.jpg" group-title="运动 SPORTS",ZIGO SPORT VOETBAL
+http://5.135.92.130:36523/out/u/527_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1PG121543J58.jpg" group-title="运动 SPORTS",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PG12129160-L.jpg" group-title="运动 SPORTS",SPORT KLUB 1
+http://5.135.92.130:36523/out/u/499_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PG12134270-L.jpg" group-title="运动 SPORTS",SPORT KLUB 2
+http://5.135.92.130:36523/out/u/502_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PG1213H60-L.jpg" group-title="运动 SPORTS",SPORT KLUB 3
+http://5.135.92.130:36523/out/u/496_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PG1210I30-L.jpg" group-title="运动 SPORTS",ARENA SPORT 1
+http://5.135.92.130:36523/out/u/484_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PG1211T80-L.jpg" group-title="运动 SPORTS",ARENA SPORT 2
+http://5.135.92.130:36523/out/u/487_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PG12121150-L.jpg" group-title="运动 SPORTS",ARENA SPORT 3
+http://5.135.92.130:36523/out/u/490_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PG12124250-L.jpg" group-title="运动 SPORTS",ARENA SPORT 4
+http://5.135.92.130:36523/out/u/494_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="运动 SPORTS",澳视体育
+http://103.233.191.136/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/tv-kanaler/fatstone-tv.png?width=50&quality=100" group-title="运动 SPORTS",FATSTONE TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/f54d0546e79be75b3751999d7687b6ad.jpeg" group-title="运动 SPORTS",REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdixsports.com/wp-content/uploads/2018/04/ten1.jpg" group-title="运动 SPORTS",SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdixsports.com/wp-content/uploads/2018/04/ten2.jpg" group-title="运动 SPORTS",SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.televisionpost.com/wp-content/uploads/2018/02/Sony-Ten-3-cover.jpg" group-title="运动 SPORTS",SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 
 ####################################### FAMILY CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://goodtv.tv/images/channel/ch68.jpg" group-title="FAMILY 家庭",好消息电视台 GOODTV 转转发现爱
