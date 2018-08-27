@@ -1,6 +1,7 @@
 #EXTM3U 
 
 ####################################### ENTERTAINMENT CHANNELS ###############################################
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdianying.jpg" group-title="娱乐 ENTERTAINMENT",NewTV 精品电影
 http://223.110.243.149/PLTV/3/224/3221225567/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjpdj.jpg" group-title="娱乐 ENTERTAINMENT",NewTV 精品大剧
@@ -11,6 +12,120 @@ http://223.110.243.149/PLTV/3/224/3221225525/.m3u8
 http://223.110.243.149/PLTV/3/224/3221225527/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262226352Z.jpg" group-title="娱乐 ENTERTAINMENT",NewTV 军旅剧场
 http://223.110.243.149/PLTV/3/224/3221225531/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P426224459244.jpg" group-title="娱乐 ENTERTAINMENT",NewTV 海外剧场
+http://223.110.243.149/PLTV/3/224/3221225547/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvjtjc.jpg" group-title="娱乐 ENTERTAINMENT",NewTV 家庭剧场
+http://223.110.243.149/PLTV/3/224/3221225549/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvdzdy.jpg.jpg" group-title="娱乐 ENTERTAINMENT",NewTV 动作电影
+http://223.110.243.149/PLTV/3/224/3221225529/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P42622394O34.jpg" group-title="娱乐 ENTERTAINMENT",NewTV 惊悚悬疑
+http://223.110.243.149/PLTV/3/224/3221225561/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P42616140Na.jpg" group-title="娱乐 ENTERTAINMENT",NewTV 明星大片
+http://223.110.243.149/PLTV/3/224/3221225535/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262241042I.jpg" group-title="娱乐 ENTERTAINMENT",NewTV 金牌综艺
+http://223.110.243.149/PLTV/3/224/3221225559/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P124231R60-L.jpg" group-title="娱乐 ENTERTAINMENT",广东影视 TVS4
+http://stream1.grtn.cn/tvs4/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myfile.icantv.cn/uploads/file/img/sctv10.jpg" group-title="娱乐 ENTERTAINMENT",电影台
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",四川峨眉电影高清
+http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1PF120304EB.jpg" group-title="娱乐 ENTERTAINMENT",卫视电影台
+http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917060555_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P521143P5328.jpg" group-title="娱乐 ENTERTAINMENT",广东综艺 TVS3
+http://stream1.grtn.cn/tvs3/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P126200RV35.jpg" group-title="娱乐 ENTERTAINMENT",深圳娱乐
+http://www.szmgiptv.com:14436/hls/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5121P25N95.jpg" group-title="娱乐 ENTERTAINMENT",上海娱乐HD
+http://111.48.34.233/wh7f454c46tw4276472492_1208083173/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225773/index.m3u8?icpid=88888888&RTS=1533137383&from=1&hms_devid=1223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5121IU2963.jpg" group-title="娱乐 ENTERTAINMENT",上海艺术人文
+http://111.48.34.190/wh7f454c46tw1581941063_1220238922/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225864/index.m3u8?icpid=88888888&RTS=1533137504&from=1&hms_devid=1263
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1_0216200AK0T.jpg" group-title="娱乐 ENTERTAINMENT",湖南电视剧
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=484
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P604203HI18.jpg" group-title="娱乐 ENTERTAINMENT",湖南娱乐
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P6041233124M.jpg" group-title="娱乐 ENTERTAINMENT",四川5影视文艺高清
+http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1_0222220624NY.jpg" group-title="娱乐 ENTERTAINMENT",河北影视
+http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P51G9445Q41.jpg" group-title="娱乐 ENTERTAINMENT",武汉-2 电视剧
+http://live.appwuhan.com/2tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P319103Q4I1.jpg" group-title="娱乐 ENTERTAINMENT",海南影视剧
+http://stream1.hnntv.cn/ysjpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P6231P135L9.jpg" group-title="娱乐 ENTERTAINMENT",徐州邳州综艺
+http://stream.pznews.com/pztv2/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P126192935240.jpg" group-title="娱乐 ENTERTAINMENT",深圳电视剧 
+http://www.szmgiptv.com:14436/hls/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5121GG5293.jpg" group-title="娱乐 ENTERTAINMENT",上海电视剧HD
+http://111.48.34.172/wh7f454c46tw2305755398_563057007/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225774/index.m3u8?icpid=88888888&RTS=1533137415&from=1&hms_devid=1383
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5121I40S45.jpg" group-title="娱乐 ENTERTAINMENT",上海外语HD
+http://111.48.34.221/wh7f454c46tw541610174_172076104/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225768/index.m3u8?icpid=88888888&RTS=1533137478&from=1&hms_devid=1183
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5151UG1537.jpg" group-title="娱乐 ENTERTAINMENT",都市剧场
+http://111.48.34.185/wh7f454c46tw109070732_216732288/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225754/index.m3u8?icpid=88888888&RTS=1533136563&from=1&hms_devid=1463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1PHH21000F2.jpg" group-title="娱乐 ENTERTAINMENT",欢笑剧场
+http://111.48.34.173/wh7f454c46tw1537607754_1603287974/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225776/index.m3u8?icpid=88888888&RTS=1533136791&from=1&hms_devid=1363
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P523134052142.jpg" group-title="娱乐 ENTERTAINMENT",七彩戏剧
+http://111.48.34.215/wh7f454c46tw4280055553_1344710428/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225841/index.m3u8?icpid=88888888&RTS=1533136913&from=1&hms_devid=1443
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170102/1-1F1022043431O.jpg" group-title="娱乐 ENTERTAINMENT",福建电视剧频道
+http://stream5.fjtv.net/dsjpd/playlist.m3u8?_upt=cfe3098e1533003852
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170103/1-1F103134JM16.jpg" group-title="娱乐 ENTERTAINMENT",西安影视
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170110/1-1F110150Q5552.jpg" group-title="娱乐 ENTERTAINMENT",淮安影视 [COLOR red][I]link down[/I][/COLOR]
+http://stream.habctv.com/ysyl/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5051S2514L.jpg" group-title="娱乐 ENTERTAINMENT",CCTV6 电影 高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225779/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50519140W57.jpg" group-title="娱乐 ENTERTAINMENT",CCTV8 电视剧 高清
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P505193520354.jpg" group-title="娱乐 ENTERTAINMENT",CCTV11 戲曲
+http://111.48.34.219/wh7f454c46tw1327866999_544286501/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225833/index.m3u8?icpid=88888888&RTS=1533140602&from=1&hms_devid=1363
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P505205920194.jpg" group-title="娱乐 ENTERTAINMENT",CCTV15 音樂
+http://111.48.34.189/wh7f454c46tw3574677973_1341294865/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225836/index.m3u8?icpid=88888888&RTS=1533140739&from=1&hms_devid=1323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50519140W57.jpg" group-title="娱乐 ENTERTAINMENT",CCTV-8 電視劇
+http://111.20.45.158/wh7f454c46tw399780828_1444261844/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8?icpid=88888888&RTS=1533276820&from=1&hms_devid=543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",BYU TV
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",TV5MONDE
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",TSC
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",FOX LIFE
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",FOX MOVIES
+http://210.210.155.35/session/b5f44c4a-7dac-11e8-98cf-b82a72d63267/uq2663/h/h14/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",FOX FAMILY MOVIES
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",KiX
+http://210.210.155.35/uq2663/h/h07/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",9XO
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",AXN
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="娱乐 ENTERTAINMENT",SONY MOVIE CHANNEL
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P602110311945.jpg" group-title="娱乐 ENTERTAINMENT",CHANNEL V 音乐台
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://musicchoice.com/wp-content/uploads/2018/05/og_image.png" group-title="娱乐 ENTERTAINMENT",MC MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/spirit.png" group-title="娱乐 ENTERTAINMENT",SPIRIT TV
+http://spirit-live-cdn.campfyre.tv/rightbrainmedia-live-109/mp4:spirit1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="娱乐 ENTERTAINMENT",欧美 RADIO M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P1222142020-L.jpg" group-title="娱乐 ENTERTAINMENT",魅力音乐
+http://111.48.34.184/wh7f454c46tw360900166_1532776834/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225783/index.m3u8?icpid=88888888&RTS=1533136822&from=1&hms_devid=1283
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/b3/ca/16985/c175.png" group-title="娱乐 ENTERTAINMENT",维京电台 VIRGIN RADIO
+http://wow01.105.net/live/virgin1/playlist.m3u8
+
+
 
 ####################################### SPORTS CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170103/1-1F1031Q42aX.jpg" group-title="运动 SPORTS",CCTV5高清
