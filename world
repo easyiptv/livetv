@@ -1259,7 +1259,6 @@ rtmp://live.streams.ovh:1935/NetvToronto/NetvToronto swfVfy=true live=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ctvnews.ca/polopoly_fs/1.846393.1459491012!/httpImage/image.jpeg_gen/derivatives/landscape_960/image.jpeg" group-title="加拿大 CANADA",CTV-NEWS48
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 
-
 ####################################### AUSTRALIA CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P6092202230-L.jpg" group-title="澳洲 AUSTRALIA",ABC NEWS
 http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
@@ -1269,6 +1268,13 @@ http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=taadmbHy0BQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G513020-L.jpg" group-title="澳洲 AUSTRALIA",WTV PERTH
 https://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_1/chunklist_dvr.m3u8
+
+####################################### OTHERS CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="其他 OTHERS",半岛电视台 AL JAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="其他 OTHERS",今日俄罗斯记录 RUSSIA TODAY
+http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+
 
 
 
