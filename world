@@ -753,6 +753,50 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
 http://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/170911/1-1F9112255450-L.jpg" group-title="香港 HONG KONG",TVB 娱乐新闻台 ENTERTAINMENT NEWS
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/170131/1-1F131215Q50-L.png" group-title="香港 HONG KONG",天映频道
+http://95.211.216.77:8278/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/161228/1-16122R10051c4.jpg" group-title="香港 HONG KONG",凤凰卫视中文 PHOENIX CHANNEL
+http://223.110.243.140/PLTV/3/224/3221226977/index.m3u8?icpid=88888888&from=0&hms_devid=2744,2804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1PH92041345D.jpg" group-title="香港 HONG KONG",凤凰卫视资讯 PHOENIX CHANNEL
+http://223.110.243.143/PLTV/3/224/3221226980/index.m3u8?icpid=88888888&from=0&hms_devid=2604,2744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P52H0200LI.jpg" group-title="香港 HONG KONG",凤凰卫视香港 PHOENIX CHANNEL
+http://223.110.243.148/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=2704,2744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P322164522U5.jpg" group-title="香港 HONG KONG",凤凰卫视电影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/170103/1-1F1031K6063Y.jpg" group-title="香港 HONG KONG",星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P51322043C23.jpg" group-title="香港 HONG KONG",香港卫视HKS TV
+http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P421202R6202.jpg" group-title="香港 HONG KONG",中华卫视神州台 CHTV
+http://pull.kapad.cn/live/livechtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/170120/1-1F120113U4930.jpg" group-title="香港 HONG KONG",健康卫视 HEALTH TV
+http://live.jkwshk.tv/AppName/StreamName.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P409155110630.jpg" group-title="香港 HONG KONG",港台电视31 RTHK TV 31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P41QA234925.jpg" group-title="香港 HONG KONG",港台电视32 RTHK TV 32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1PG11QQ2114.jpg" group-title="香港 HONG KONG",NOW新闻
+http://hk1.sixu.ml/hls/now.php?id=332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1PG11I415a1.jpg" group-title="香港 HONG KONG",NOW直播
+http://hk1.sixu.ml/hls/now.php?id=331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P42R101000-L.jpg" group-title="香港 HONG KONG",环球电影频道 UTV
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P42R101000-L.jpg" group-title="香港 HONG KONG",环球电视台综合频道 UTV
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P4231RSEN.jpg" group-title="香港 HONG KONG",亚太第一卫视 ONE TV 32
+rtmp://v1.one-tv.com/live/mpegts.stream swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGQK3Au8u8FWmvhTkxvxjZrzO76G1C6mhSwvA=s288-mo-c-c0xffffffff-rj-k-no" group-title="香港 HONG KONG",东网直播 ON TV
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dSTemwPgVQg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P614130A50-L.jpg" group-title="香港 HONG KONG",有线18台
+rtmp://kv3.tp33.net:1935/sat/hk041 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/40/Cable_News_Channel.png/260px-Cable_News_Channel.png" group-title="香港 HONG KONG",有线新闻台 I-CABLE NEWS
+http://ottproxy1.mott.tv/livehls/MOB-SCC/01.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港 HONG KONG",耀才财经台
+rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P40Z0560T06.jpg" group-title="香港 HONG KONG",奇妙电视 FANTASTIC TV
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P322164912149.jpg" group-title="香港 HONG KONG",探索频道 DISCOVERY CHANNEL
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery swfVfy=true live=true
 
 ####################################### MACAU CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P420213339416.jpg" group-title="澳门 MACAU",莲花卫视 LOTUS TV
