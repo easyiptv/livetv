@@ -491,7 +491,7 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch15-3.m3
 
 
 
-####################################### CCTV CHANNELS ###############################################
+######################################### CCTV CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P3221K936337.jpg" group-title="中央电视台 CCTV",CCTV1 综合 高清
 http://223.110.245.169/PLTV/3/224/3221225530/index.m3u8?icpid=88888888&from=0&ocs=2_223.110.245.134_80&hms_devid=43,724
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P3221K402528.jpg" group-title="中央电视台 CCTV",CCTV2 财经 高清
@@ -504,7 +504,56 @@ http://223.110.243.162/PLTV/4/224/3221227378/index.m3u8?icpid=88888888&from=0&hm
 http://111.48.34.189/wh7f454c46tw1978098733_435220967/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225800/index.m3u8?icpid=88888888&RTS=1534496921&from=1&hms_devid=1323
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170103/1-1F1031Q42aX.jpg" group-title="中央电视台 CCTV",CCTV5+ 体育赛事 高清
 http://111.48.34.186/wh7f454c46tw3309550809_1898280259/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8?icpid=88888888&RTS=1533140382&from=1&hms_devid=1303
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5051S2514L.jpg" group-title="中央电视台 CCTV",CCTV6 电影 高清
+http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5051U200938.jpg" group-title="中央电视台 CCTV",CCTV7 军事·农业 高清
+http://223.110.245.169/PLTV/3/224/3221225546/index.m3u8?icpid=88888888&from=0&ocs=2_183.207.249.15_80&hms_devid=3,43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50519140W57.jpg" group-title="中央电视台 CCTV",CCTV8 电视剧 高清
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P505191A5108.jpg" group-title="中央电视台 CCTV",CCTV9 纪录 高清
+http://223.110.245.173/PLTV/3/224/3221225532/index.m3u8?icpid=88888888&from=0&hms_devid=3,23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P505193303U5.jpg" group-title="中央电视台 CCTV",CCTV10 科教 高清
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P505193520354.jpg" group-title="中央电视台 CCTV",CCTV11 戏曲
+http://111.48.34.219/wh7f454c46tw1327866999_544286501/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225833/index.m3u8?icpid=88888888&RTS=1533140602&from=1&hms_devid=1363
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50519503G14.jpg" group-title="中央电视台 CCTV",CCTV12 社会与法 高清
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P503221404532.jpg" group-title="中央电视台 CCTV",CCTV13 新闻
+http://111.48.34.185/wh7f454c46tw867474269_1596339124/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225835/index.m3u8?icpid=88888888&RTS=1533140675&from=1&hms_devid=1463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P505205406394.jpg" group-title="中央电视台 CCTV",CCTV14 少儿 高清
+http://223.110.243.150/PLTV/3/224/3221227409/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P505205920194.jpg" group-title="中央电视台 CCTV",CCTV15 音乐
+http://111.48.34.189/wh7f454c46tw3574677973_1341294865/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225836/index.m3u8?icpid=88888888&RTS=1533140739&from=1&hms_devid=1323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P3221K402528.jpg" group-title="中央电视台 CCTV",CCTV-2 财经
+http://111.48.34.154/wh7f454c46tw2080129026_1910293500/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225829/index.m3u8?icpid=88888888&RTS=1533276333&from=1&ocs=2_111.48.34.229_80&hms_devid=123
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/161229/1-1612292119203A.jpg" group-title="中央电视台 CCTV",CCTV-3 综艺
+http://111.20.45.167/wh7f454c46tw260842926_355491724/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225961/index.m3u8?icpid=88888888&RTS=1533276487&from=1&ocs=2_111.20.45.165_80&hms_devid=623
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P525203500491.jpg" group-title="中央电视台 CCTV",CCTV-4 中文国际
+http://111.48.34.186/wh7f454c46tw983736969_1731418786/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225830/index.m3u8?icpid=88888888&RTS=1533276562&from=1&hms_devid=1303
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5051U200938.jpg" group-title="中央电视台 CCTV",CCTV-7 军事农业
+http://111.48.34.233/wh7f454c46tw3570856206_698263766/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225831/index.m3u8?icpid=88888888&RTS=1533276746&from=1&hms_devid=1223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50519140W57.jpg" group-title="中央电视台 CCTV",CCTV-8 电视剧
+http://111.20.45.158/wh7f454c46tw399780828_1444261844/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8?icpid=88888888&RTS=1533276820&from=1&hms_devid=543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P505193303U5.jpg" group-title="中央电视台 CCTV",CCTV-10 科教
+http://111.48.34.172/wh7f454c46tw2579049308_859520441/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225832/index.m3u8?icpid=88888888&RTS=1533276875&from=1&hms_devid=1383
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50519503G14.jpg" group-title="中央电视台 CCTV",CCTV-12 社会与法
+http://111.20.45.169/wh7f454c46tw3604989686_1734912735/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225501/index.m3u8?icpid=88888888&RTS=1533276915&from=1&hms_devid=523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P503221404532.jpg" group-title="中央电视台 CCTV",CCTV-13 新闻
+http://111.48.34.185/wh7f454c46tw2382221408_838142461/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225835/index.m3u8?icpid=88888888&RTS=1533276961&from=1&hms_devid=1463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5101T051W8.jpg" group-title="中央电视台 CCTV",CCTV 发现之旅
+http://223.110.243.165/PLTV/4/224/3221227030/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="中央电视台 CCTV",CCTV 老故事
+http://223.110.243.148/PLTV/4/224/3221227043/index.m3u8?icpid=88888888&from=0&hms_devid=2704,2724
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170307/1-1F30G9232DM.png" group-title="中央电视台 CCTV",CGTN
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170307/1-1F30G9232DM.png" group-title="中央电视台 CCTV",CGTN 纪录 [COLOR red][I]link down[/I][/COLOR]
+http://223.110.243.172/PLTV/2510088/224/3221227309/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1_0312125J3ZP.jpg" group-title="中央电视台 CCTV",CETV-2 教育
+http://223.110.243.148/PLTV/4/224/3221225850/index.m3u8?icpid=88888888&from=0&hms_devid=2704,2724
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1_0312130151WB.jpg" group-title="中央电视台 CCTV",CETV-3 教育
+http://223.110.243.156/PLTV/4/224/3221227018/index.m3u8?icpid=88888888&from=0&hms_devid=2724,2784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1_031213034WR0.jpg" group-title="中央电视台 CCTV",CETV-4 教育
+http://223.110.243.165/PLTV/4/224/3221227028/index.m3u8
 ####################################### STARCHINESE CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P329211519411.jpg" group-title="卫星频道 STAR CHINESE",湖南卫视高清
 http://111.20.45.167/wh7f454c46tw3520633637_1800688088/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225582/index.m3u8?icpid=88888888&RTS=1532941834&from=1&hms_devid=623
