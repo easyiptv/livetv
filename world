@@ -1060,6 +1060,16 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="马来西亚 MALAYSIA",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="马来西亚 MALAYSIA",1NEWS
+https://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="马来西亚 MALAYSIA",BERNAMA TV
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="马来西亚 MALAYSIA",OKEY
+https://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="马来西亚 MALAYSIA",TV1
+https://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="马来西亚 MALAYSIA",TV2
+https://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
 
 ####################################### SINGAPORE CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg/revision/latest/scale-to-width-down/340?cb=20120613095225" group-title="新加坡 SINGAPORE",5頻道 MEDIACORP CHANNEL 5
@@ -1072,6 +1082,10 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/prog_index.m3u8
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Surialogo700x525_20130517103430.jpg/revision/latest?cb=20161026075708" group-title="新加坡 SINGAPORE",MEDIACORP SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Vst.png/revision/latest?cb=20160531151559" group-title="新加坡 SINGAPORE",MEDIACORP VASANTHAM
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmpcweb/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHeEKJgC_ETYeeuRUgCH-eOnvt_MoClHtL6AkCTw1A3T1dT44" group-title="新加坡 SINGAPORE",CHANNEL NEWSASIA
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/01.m3u8
 
 
 ####################################### KOREA CHANNELS ###############################################
@@ -1079,14 +1093,68 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
 http://123.108.164.71/etv2/phd847/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/500px-Munhwa_Broadcasting_Company.svg.png" group-title="韩国 KOREA",MBC
 http://123.108.164.71/etv2/phd847/chunklist_w505134090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50920434G26.jpg" group-title="韩国 KOREA",GoodTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50920434G26.jpg" group-title="韩国 KOREA",GOODTV
 http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5092104250-L.jpg" group-title="韩国 KOREA",CJ购物台
 http://edge1.everyon.tv/etv1sb/phd1057/chunklist_w401758269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P509211134960.jpg" group-title="韩国 KOREA",GS Shop购物
+http://edge2.everyon.tv/etv2/phd883/chunklist_w819446759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",INDOOR SPORTS
+http://edge2.everyon.tv/etv2/phd1197/chunklist_w771063379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",K SPORTS
+http://edge2.everyon.tv/etv2sb/phd1371/chunklist_w1066708373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",K??
+http://edge1.everyon.tv/etv1/phd207/chunklist_w276388442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",KBNTV
+http://edge1.everyon.tv/etv1/phd387/chunklist_w1890557880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",KTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",LIVING TV
+http://edge2.everyon.tv/etv2/phd13/chunklist_w276808095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",MBN
+http://edge2.everyon.tv/etv2sb/phd17/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",MOUNTAIN TV
+http://edge2.everyon.tv/etv2/phd337/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",NATIONAL GEOGRAPHIC
+http://edge1.everyon.tv/etv1sb/phd1297/chunklist_w1802493452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",NBN TV
+http://edge2.everyon.tv/etv2/phd639/chunklist_w302693476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",OBS
+http://edge2.everyon.tv/etv2/phd1042/chunklist_w1741023166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",OUTDOOR TRAVEL
+http://edge2.everyon.tv/etv2/phd30/chunklist_w1437445556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",POLARIS TV
+http://edge2.everyon.tv/etv2/phd14/chunklist_w2140982361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",QBS
+http://edge1.everyon.tv/etv1sb/phd957/chunklist_w1009272558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",RUNWAY TV
+http://edge2.everyon.tv/etv2sb/phd753/chunklist_w881820644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",TBS
+http://edge2.everyon.tv/etv2/phd40/chunklist_w2003601230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",TOMATO
+http://edge1.everyon.tv/etv1/phd25/chunklist_w1130002342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",TV SEN
+http://edge2.everyon.tv/etv2/phd22/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",TV SEN PLUS
+http://edge1.everyon.tv/etv1sb/phd1268/chunklist_w617580583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",购物台
+http://edge2.everyon.tv/etv2/phd901/chunklist_w1142218250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",YTN
+http://edge2.everyon.tv/etv2sb/phd20/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",CHING
+http://edge1.everyon.tv/etv1/phd7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",가요중심TV
+http://edge2.everyon.tv/etv2sb/phd1378/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",연합뉴스TV
+http://edge2.everyon.tv/etv2sb/phd133/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",TV CHOSUN
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="韩国 KOREA",ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-####################################### KOREA CHANNELS ###############################################
+####################################### JAPAN CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="日本 JAPAN",BS
 rtmp://kv3.tp33.net:1935/sat/jp071 swfVfy=true live=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="日本 JAPAN",财经
@@ -1097,6 +1165,19 @@ rtmp://kv3.tp33.net:1935/sat/jp011 swfVfy=true live=true
 rtmp://kv3.tp33.net/sat/tv761 swfVfy=true live=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="日本 JAPAN",GAORA
 rtmp://kv3.tp33.net:1935/sat/jp021 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="日本 JAPAN",GREEN
+rtmp://wv4.tp33.net:1935/sat/jp081 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="日本 JAPAN",GREEN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cyclesports.jp/sites/default/files/3194_jspo2.jpg" group-title="运动 SPORTS",JSPORTS 1
+rtmp://kv3.tp33.net:1935/sat/jp061 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccer.myjcom.jp/images/ch-jsports2.png" group-title="运动 SPORTS",JSPORTS 2
+rtmp://kv3.tp33.net:1935/sat/jp041 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports-3.jpg" group-title="运动 SPORTS",JSPORTS 3
+rtmp://kv3.tp33.net:1935/sat/jp031 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports-3.jpg" group-title="运动 SPORTS",FOX体育
+rtmp://kv3.tp33.net:1935/sat/jp051 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports-3.jpg" group-title="运动 SPORTS",棒球
+rtmp://kv3.tp33.net:1935/sat/jp101 swfVfy=true live=true
 
 ####################################### UNITED STATES CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5050119103U.jpg" group-title="美国 UNITED STATES",ABC NEWS
@@ -1109,6 +1190,58 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P630230311451.jpg" group-title="美国 UNITED STATES",INFOWARS
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P511201H70-L.jpg" group-title="美国 UNITED STATES",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfFCsVGm9t-C5rGorMXEciuO5yaxw5gXSFVmbQ=s288-mo-c-c0xffffffff-rj-k-no" group-title="美国 UNITED STATES",NASA LIVE
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RtU_mdL2vBM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P3221A41CB.jpg" group-title="美国 UNITED STATES",NATIONAL GEOGRAPHIC 国家地理频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P4232020470-L.png" group-title="美国 UNITED STATES",NATIONAL GEOGRAPHIC 国家地理阿拉伯频道
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P630234431358.jpg" group-title="美国 UNITED STATES",NFL NETWORK
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P630232P0P4.jpg" group-title="美国 UNITED STATES",NRBTV
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PF2150T10-L.jpg" group-title="美国 UNITED STATES",THE WEATHER CHANNEL WORLD
+http://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PF21644030-L.jpg" group-title="美国 UNITED STATES",TUFF TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1PF214543V12.jpg" group-title="美国 UNITED STATES",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/playlsit.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50H3045A03.jpg" group-title="美国 UNITED STATES",美国中文电视
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P50H3224J58.jpg" group-title="美国 UNITED STATES",美国中文电视英文台
+http://media1.sinovision.net:1935/live/enstream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G544140-L.jpg" group-title="美国 UNITED STATES",HMONG TV NETWORK 25.3
+http://198.105.218.12/live2/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G544140-L.jpg" group-title="美国 UNITED STATES",HMONG TV NETWORK 32.6
+http://198.105.218.12:1935/live/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G544140-L.jpg" group-title="美国 UNITED STATES",CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G544140-L.jpg" group-title="美国 UNITED STATES",米國知音 BOOK TV
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G544140-L.jpg" group-title="美国 UNITED STATES",CSPAN1
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G544140-L.jpg" group-title="美国 UNITED STATES",CSPAN2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G544140-L.jpg" group-title="美国 UNITED STATES",CSPAN3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G544140-L.jpg" group-title="美国 UNITED STATES",NEWSMAX TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G544140-L.jpg" group-title="美国 UNITED STATES",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P20G544140-L.jpg" group-title="美国 UNITED STATES",BLOOMBERG TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGQK3Au8u8FWmvhTkxvxjZrzO76G1C6mhSwvA=s288-mo-c-c0xffffffff-rj-k-no" group-title="美国 UNITED STATES",BLOOMBERG
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ga3maNZ0x0w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGQK3Au8u8FWmvhTkxvxjZrzO76G1C6mhSwvA=s288-mo-c-c0xffffffff-rj-k-no" group-title="美国 UNITED STATES",PAC NETWORK
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGQK3Au8u8FWmvhTkxvxjZrzO76G1C6mhSwvA=s288-mo-c-c0xffffffff-rj-k-no" group-title="美国 UNITED STATES",PAC WASHINGTON
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGQK3Au8u8FWmvhTkxvxjZrzO76G1C6mhSwvA=s288-mo-c-c0xffffffff-rj-k-no" group-title="美国 UNITED STATES",半岛电视台 AL JAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGQK3Au8u8FWmvhTkxvxjZrzO76G1C6mhSwvA=s288-mo-c-c0xffffffff-rj-k-no" group-title="美国 UNITED STATES",今日俄罗斯记录 RUSSIA TODAY
+http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 
 ####################################### UNITED KINGDOM CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PG41AF00-L.jpg" group-title="英国 UNITED KINGDOM",BBC EARTH
