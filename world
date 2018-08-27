@@ -826,6 +826,230 @@ http://223.110.243.149/PLTV/3/224/3221226935/.m3u8
 http://223.110.243.149/PLTV/3/224/3221225533/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="中国 CHINA",NewTV 精品记
 http://223.110.243.149/PLTV/3/224/3221225557/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="中国 CHINA",NewTV 乐活新生
+http://223.110.243.149/PLTV/3/224/3221226983/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="中国 CHINA",NewTV 嘻笑漫年
+http://223.110.243.149/PLTV/3/224/3221225555/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_h_uoztij8Z1MhE9hMDF45J0tF-UelPMO-ioK_SPR8GzsKmUt9g" group-title="中国 CHINA",NewTV 农业致富
+http://223.110.243.149/PLTV/3/224/3221225537/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Mjk8F7pJy3cWdrpkbuvm6grNACH4iMWKfg8pU8m2ozd1p1jA" group-title="中国 CHINA",NewTV 健康有约
+http://223.110.243.149/PLTV/3/224/3221225545/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myfile.icantv.cn/uploads/file/img/newtvwmyx.jpg" group-title="中国 CHINA",NewTV 完美游戏
+http://223.110.243.149/PLTV/3/224/3221225539/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.shiting5.com/allimg/160113/6-160113013251140.jpg" group-title="中国 CHINA",珠江频道
+http://stream1.grtn.cn/zjpd/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/gdggpd.jpg" group-title="中国 CHINA",广东公共
+http://stream1.grtn.cn/ggpd/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/170102/1-1F102193642433.jpg" group-title="中国 CHINA",广东新闻 TVS2
+http://stream1.grtn.cn/xwpd/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/170223/1-1F2232106390-L.jpg" group-title="中国 CHINA",广东国际 TVS2
+http://stream1.grtn.cn/gjpd/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P521163Q0324.jpg" group-title="中国 CHINA",广东房产 TVS2 
+http://stream1.grtn.cn/fcpd/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5231SGI30.jpg" group-title="中国 CHINA",广东会展 TVS2 
+http://stream1.grtn.cn/qchzpd/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SlPGbxqLLaca48cbLss5V06aCrASZiTjF95eCnbTbeR_JX2pOg" group-title="中国 CHINA",广东经视 TVS1
+http://58.248.254.9:9235/tvlive/tvs1-h.stream/playlist.m3u8?wowzatokenCustomParameter=10628362053053123_211.149.163.216,%2061.160.233.17&wowzatokenendtime=1532953243&wowzatokenstarttime=1532946043&wowzatokenhash=cpu24srPhIBLRgTjg6NzMRELfrNVymkPV2kQ_B8NVJA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs2.jpg" group-title="中国 CHINA",南方卫视 TVS2
+http://stream1.grtn.cn/tvs2/sd/live.m3u8?_ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P52516263RX.jpg" group-title="中国 CHINA",广东高尔夫频道
+http://58.248.254.11:9280/tvlive/gefpd-h.stream/playlist.m3u8?wowzatokenCustomParameter=10628699197786866_211.149.163.216,%2061.160.233.17&wowzatokenendtime=1532953580&wowzatokenstarttime=1532946380&wowzatokenhash=HAXvbJ7S2X5QZWqex1atOWYTp44MTMPunC3sHhaC3-Q=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P1262025120-L.jpg" group-title="中国 CHINA",深圳都市 
+http://www.szmgiptv.com:14436/hls/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="中国 CHINA",深圳DV生活 
+http://www.szmgiptv.com:14436/hls/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P12620311VY.jpg" group-title="中国 CHINA",深圳体育健康 
+http://www.szmgiptv.com:14436/hls/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P12620034W95.jpg" group-title="中国 CHINA",深圳公共 
+http://www.szmgiptv.com:14436/hls/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P126200F2M3.jpg" group-title="中国 CHINA",深圳财经生活 
+http://www.szmgiptv.com:14436/hls/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/fszhpd.jpg" group-title="中国 CHINA",佛山综合 
+http://58.248.254.7:9207/live/ds-fszh.sdp/playlist.m3u8?wowzatokenCustomParameter=99554567843118419_211.149.163.216,%2061.160.233.17&wowzatokenendtime=1532963364&wowzatokenstarttime=1532956164&wowzatokenhash=124XIvDWCio0e9n5ADLXATEDcSNoAMK71visFshXlwI=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/fsggpd.jpg" group-title="中国 CHINA",佛山公共 
+http://58.248.254.7:9207/live/ds-fsgg.sdp/playlist.m3u8?wowzatokenCustomParameter=99554571730319108_211.149.163.216,%2061.160.233.17&wowzatokenendtime=1532963368&wowzatokenstarttime=1532956168&wowzatokenhash=_8Vz12twW9LUrq_dhHN3QJZpFtykWCMxJYK3j26fIDE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/fsggpd.jpg" group-title="中国 CHINA",珠海-1 
+http://hlslive.n21.cc/uHiS6o7/500/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/fsggpd.jpg" group-title="中国 CHINA",珠海-2
+http://hlslive.n21.cc/tm0Or7U/500/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P52H239254Q.jpg" group-title="中国 CHINA",中山综合
+http://dslive.grtn.cn/zszh/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P53022054Gc.jpg" group-title="中国 CHINA",肇庆综合
+http://dslive.grtn.cn/zqzh/sd/live.m3u8?ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P505012HT55.jpg" group-title="中国 CHINA",台山新闻
+http://220.249.195.38:1935/app_1/ls_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P530211S5L3.jpg" group-title="中国 CHINA",汕头1
+http://www.szmgiptv.com:14436/hls/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P306213351205.jpg" group-title="中国 CHINA",惠州 1
+http://www.szmgiptv.com:14437/hls/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P30621321IP.jpg" group-title="中国 CHINA",惠州 2
+http://www.szmgiptv.com:14437/hls/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P311202F2446.jpg" group-title="中国 CHINA",第一财经HD
+http://111.48.34.178/wh7f454c46tw2819165893_154916873/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225813/index.m3u8?icpid=88888888&RTS=1533137592&from=1&hms_devid=1023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P512164S50-L.jpg" group-title="中国 CHINA",全纪实HD
+http://111.48.34.175/wh7f454c46tw3915180631_281047388/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225791/index.m3u8?icpid=88888888&RTS=1533137620&from=1&hms_devid=1183
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5121G151945.jpg" group-title="中国 CHINA",上海纪实HD
+http://111.48.34.223/wh7f454c46tw1193989907_1798971178/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225769/index.m3u8?icpid=88888888&RTS=1533137333&from=1&hms_devid=1083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P5121HAU33.jpg" group-title="中国 CHINA",上海新闻综合HD
+http://111.48.34.177/wh7f454c46tw3899737523_1419901041/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225767/index.m3u8?icpid=88888888&RTS=1533137449&from=1&hms_devid=1083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P515191235Z0.jpg" group-title="中国 CHINA",法治天地
+http://111.48.34.183/wh7f454c46tw380681904_334609072/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225839/index.m3u8?icpid=88888888&RTS=1533137241&from=1&hms_devid=1043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P311201051922.jpg" group-title="中国 CHINA",东方财经
+http://111.48.34.232/wh7f454c46tw2201094201_1191168818/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225840/index.m3u8?icpid=88888888&RTS=1533137282&from=1&hms_devid=1303
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1-1PHH216040-L.jpg" group-title="中国 CHINA",生活时尚
+http://111.48.34.185/wh7f454c46tw1206936237_1442292720/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225771/index.m3u8?icpid=88888888&RTS=1533136876&from=1&hms_devid=1463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P513203445963.jpg" group-title="中国 CHINA",幸福彩
+http://111.48.34.235/wh7f454c46tw3897197628_975335498/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225753/index.m3u8?icpid=88888888&RTS=1533136944&from=1&hms_devid=1323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1-1P5132041150-L.jpg" group-title="中国 CHINA",金色频道
+http://111.48.34.177/wh7f454c46tw3818853889_609263519/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225781/index.m3u8?icpid=88888888&RTS=1533136953&from=1&hms_devid=1083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P51522224K51.jpg" group-title="中国 CHINA",游戏风云
+http://111.48.34.215/wh7f454c46tw2076328552_102819778/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225779/index.m3u8?icpid=88888888&RTS=1533136959&from=1&hms_devid=1443
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P51522224K51.jpg" group-title="中国 CHINA",电竟世界
+http://111.48.34.218/wh7f454c46tw238142539_1950742065/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225808/index.m3u8?icpid=88888888&RTS=1533136965&from=1&hms_devid=1383
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P21620233a09.jpg" group-title="中国 CHINA",茶频道
+http://119.39.39.212/nn_live/nn_x64/bm5fdGltZXpvbmU9OCZoPTExOS4zOS4zOS4yMTImdXVpZD05NjQ0ODQxYzRiMTA1NDcyJmU9NTExNTA5MiZ2PTEmaWQ9Q1BETVBQMzYwJnM9NTllMmE0Yjc0Zjg2MWI2MDY4MTgxNzA4MWU1YTRmMTQ,/CPDMPP360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P60420161Q14.jpg" group-title="中国 CHINA",快乐垂钓 [COLOR red][I]link down[/I][/COLOR]
+http://phoneal.qing.mgtv.com/nn_live/nn_x64/bm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZ1dWlkPTIwZWQ0YWIxMWMyZGMyOWYmZT01MTEwNTQ2JnY9MSZpZD1LTENETVBQMzYwJnM9NTg1MDg2ZTJmZTU3YWMzMzgyYmU3ZTQ2ZmE2NzUxZGI,/KLCDMPP360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P6042025244W.jpg" group-title="中国 CHINA",先锋乒羽
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=329
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://" group-title="中国 CHINA",金鹰纪实
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=316
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P51220053V91.jpg" group-title="中国 CHINA",湖南国际
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170101/1-1F1012346263G.jpg" group-title="中国 CHINA",湖南经视
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=280
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P512193G3402.jpg" group-title="中国 CHINA",湖南都市
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=346
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P512200211120.jpg" group-title="中国 CHINA",湖南公共
+http://s-423975.gotocdn.com:6330/v/hunantv.php?id=261
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "https://pic.baike.soso.com/ugc/baikepic/21386/cut-20140124123145-1352927022.jpg/0" group-title="中国 CHINA",湖南快乐购
+http://119.39.39.212/nn_live/nn_x64/bm5fdGltZXpvbmU9OCZoPTExOS4zOS4zOS4yMTImdXVpZD1lMWVhNDM0MTVhYWNkNmE2JmU9NTExNTA5MCZ2PTEmaWQ9S0xHTVBQMzYwJnM9MjJlMjMyMmFhOTMwMWIzYjUzNzgwNzAyYzgwZGI0NDM,/KLGMPP360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170101/1-1F10123263K35.jpg" group-title="中国 CHINA",长沙政法
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/bm5fdGltZXpvbmU9OCZjZG5leF9pZD10c19waG9uZV9saXZlJnV1aWQ9MjY4NWVlYjczYTUzNzcwMSZlPTUxMTUwODYmdj0xJmlkPUNTWkZNUFAzNjAmcz1hMGU4NzA4Mzc0MzMyZjlkZWQyNDBlMjA0MjU3ODkyNA,,/CSZFMPP360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170101/1-1F10123215c09.jpg" group-title="中国 CHINA",长沙女性
+http://phonews.qing.mgtv.com/nn_live/nn_x64/cz03NjIyZmIwNzNkZDQwMGRiOWRiZTYyMWNkNmQ1NGI2MSZlcz0xNTM0NTI2OTI4JnV1aWQ9YjUxNTY1NGFlMDQ0ZWU4ZWYzNjMyYjVjOThjNjliMGItMmEzMDYwNjQmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/CSNXMPP360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170101/1-1F1012324313L.jpg" group-title="中国 CHINA",长沙新闻
+http://220.194.215.19/nn_live/nn_x64/bm5fdGltZXpvbmU9OCZoPTIyMC4xOTQuMjE1LjE5JnV1aWQ9ODg4ZGQwZjMyZjNiMzRiZiZlPTUxMTUwOTAmdj0xJmlkPUNTWFdNUFAzNjAmcz1hZjUxY2QzN2M1YTk1OGIxZTE4YTYzNTU3ZmQ4MWQ1Mg,,/CSXWMPP360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PHQ1434N22.jpg" group-title="中国 CHINA",福建综合频道
+http://stream5.fjtv.net/zhpd/playlist.m3u8?_upt=144ae0741533003703
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170102/1-1F102204R1534.jpg" group-title="中国 CHINA",福建公共频道
+http://stream5.fjtv.net/ggpd/playlist.m3u8?_upt=43e1d94e1533003778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170102/1-1F102204F2228.jpg" group-title="中国 CHINA",福建新闻频道
+http://stream5.fjtv.net/xwpd/playlist.m3u8?_upt=937410b21533003815
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.tvyan.com/uploads/dianshi/fjtv7.jpg" group-title="中国 CHINA",福建经视频道
+http://stream6.fjtv.net/jjpd/playlist.m3u8?_upt=1ec719951533003893
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P60412252L17.jpg" group-title="中国 CHINA",四川2文化旅游高清
+http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P604122Z02Z.jpg" group-title="中国 CHINA",四川3经济频道高清
+http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P604123106106.jpg" group-title="中国 CHINA",四川4新闻综合
+http://scgctvshow.sctv.com/sdlive/sctv4/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PH9113611549.jpg" group-title="中国 CHINA",四川6星空购物
+http://scgctvshow.sctv.com/sdlive/sctv6/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1_022221541391a.jpg" group-title="中国 CHINA",河北经济
+http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1_0222215631b62.jpg" group-title="中国 CHINA",河北都市
+http://weblive.hebtv.com/live/hbds_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1_0222220624NY.jpg" group-title="中国 CHINA",河北影视
+http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1_022221460322I.jpg" group-title="中国 CHINA",河北公共
+http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PG01R221I5.jpg" group-title="中国 CHINA",河北农民
+http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P51G93S4L2.jpg" group-title="中国 CHINA",武汉-1 新闻
+http://live.appwuhan.com/1tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P51G9564WE.jpg" group-title="中国 CHINA",武汉-3 科技生活
+http://live.appwuhan.com/3tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P51G95US44.jpg" group-title="中国 CHINA",武汉-4 经济
+http://live.appwuhan.com/4tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P51H00520345.jpg" group-title="中国 CHINA",武汉-5 文体
+http://live.appwuhan.com/5tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1-1P51H014550-L.jpg" group-title="中国 CHINA",武汉-6 外语
+http://live.appwuhan.com/6tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P51H01010342.jpg" group-title="中国 CHINA",武汉-7
+http://live.appwuhan.com/7tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P2191IG21C.jpg" group-title="中国 CHINA",苏州-1 新闻综合
+http://livetv.2500city.com/live/sbs1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P2191I91b58.jpg" group-title="中国 CHINA",苏州-2
+http://livetv.2500city.com/live/sbs2hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P2191J413W2.jpg" group-title="中国 CHINA",苏州-3
+http://livetv.2500city.com/live/sbs3hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P2191J6024M.jpg" group-title="中国 CHINA",苏州-5
+http://livetv.2500city.com/live/sbs5hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PG9164415937.jpg" group-title="中国 CHINA",苏州太仓新闻
+http://58.211.172.37:1935/live/tcxwpc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PG9164546348.jpg" group-title="中国 CHINA",苏州太仓娄东民生
+http://58.211.172.37:1935/live/ldmspc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PG9164934646.jpg" group-title="中国 CHINA",苏州太仓党建
+http://58.211.172.37:1935/live/djpdpc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P21919393K35.jpg" group-title="中国 CHINA",苏州昆山新闻综合
+http://221.6.85.150:9000/live/ksxwzh_800/ksxwzh_800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P219194042211.jpg" group-title="中国 CHINA",苏州昆山社会生活
+http://221.6.85.150:9000/live/ksshsh_800/ksshsh_800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://nettv.live/uploads/allimg/170122/1-1F1222311030-L.jpg" group-title="中国 CHINA",海南三亚
+http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P3191034552F.jpg" group-title="中国 CHINA",海南新闻
+http://stream1.hnntv.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170104/1-1F10412425Q27.jpg" group-title="中国 CHINA",海南公共
+http://stream1.hnntv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170104/1-1F104123450Z4.jpg" group-title="中国 CHINA",海南综合
+http://stream1.hnntv.cn/zhpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P22015022Y12.jpg" group-title="中国 CHINA",徐州新沂生活频道
+http://app.yishuweb.com:81/live2/livestream_ff.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P220145922946.jpg" group-title="中国 CHINA",徐州新沂新闻综合
+http://app.yishuweb.com:81/live1/livestream_ff.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P6231K602358.jpg" group-title="中国 CHINA",徐州邳州综合
+http://stream.pznews.com/pztv1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P220145922946.jpg" group-title="中国 CHINA",徐州-1
+http://stream1.huaihai.tv/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P22015022Y12.jpg" group-title="中国 CHINA",徐州-2
+http://stream1.huaihai.tv/jjsh/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P220150514b5.jpg" group-title="中国 CHINA",徐州-3
+http://stream1.huaihai.tv/wyys/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P220150622608.jpg" group-title="中国 CHINA",徐州-4
+http://stream1.huaihai.tv/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PH5000FT20.jpg" group-title="中国 CHINA",陕西新闻
+http://stream.snrtv.com/sxtvs-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PH5001141939.jpg" group-title="中国 CHINA",陕西都市
+http://stream.snrtv.com/sxtvs-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PH500145B22.jpg" group-title="中国 CHINA",陕西公共
+http://stream.snrtv.com/sxtvs-5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170103/1-1F103133T1R8.jpg" group-title="中国 CHINA",西安新闻
+http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170103/1-1F103134019632.jpg" group-title="中国 CHINA",西安白鸽
+http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170103/1-1F10313440A27.jpg" group-title="中国 CHINA",西安资讯
+http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://" group-title="中国 CHINA",西安健康
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170103/1-1F10314114WY.jpg" group-title="中国 CHINA",榆林综合
+http://61.150.114.78:8089/hls-live/livepkgr/_definst_/liveevent/ylwltv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170110/1-1F110150415O1.jpg" group-title="中国 CHINA",淮安综合
+http://stream.habctv.com/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170110/1-1F110150621633.jpg" group-title="中国 CHINA",淮安公共
+http://stream.habctv.com/hagg/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://" group-title="中国 CHINA",沉阳新闻
+http://lms.csytv.com/Live/122/live/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://" group-title="中国 CHINA",沉阳经济
+http://lms.csytv.com/Live/123/live/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://" group-title="中国 CHINA",沉阳公共
+http://lms.csytv.com/Live/124/live/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170103/1-1F10321154J26.jpg" group-title="中国 CHINA",大连瓦房店新闻综合
+http://pili-live-hls.livewafangd.sobeycache.com/livewafangd/dszb003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/170103/1-1F10321192aD.jpg" group-title="中国 CHINA",大连瓦房店经济生活
+http://pili-live-hls.livewafangd.sobeycache.com/livewafangd/dszb002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PHG6202J34.jpg" group-title="中国 CHINA",新疆汉语生活
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PHG61F1143.jpg" group-title="中国 CHINA",新疆法制信息
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1P5121G151945.jpg" group-title="中国 CHINA",上海纪实高清
+http://183.207.248.36/PLTV/3/224/3221227395/index.m3u8?icpid=88888888&from=0&hms_devid=2564,3484&prioritypopid=10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/allimg/18/1_0121193A35313.jpg" group-title="中国 CHINA",北京纪实高清
+http://223.110.243.168/PLTV/3/224/3221227397/index.m3u8?icpid=88888888&from=0&hms_devid=2564,6344&prioritypopid=10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://www.nettv.live/uploads/18/1-1PHR2553a27.jpg" group-title="中国 CHINA",KNEWS24
+http://ax.micaesoft.com/YMitv/YMITV_CN_SHKnews24_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" logo= "http://" group-title="中国 CHINA",唐人电视
+http://174.127.67.246/live400/playlist.m3u8
 
 ####################################### MALAYSIA CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://" group-title="马来西亚 MALAYSIA",ASTRO GOSHOP
