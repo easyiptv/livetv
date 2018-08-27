@@ -312,6 +312,7 @@ http://weblive.hebtv.com/live/hbse_bq/index.m3u8
 http://223.110.243.150/PLTV/3/224/3221227409/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1P604123529562.jpg" group-title="FAMILY 家庭",7妇女儿童高清
 http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
+
 ####################################### RELIGION CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/godtv.png" group-title="宗教 RELIGION",ASIA | GOD TV
 https://ooyalahd2-f.akamaihd.net/i/godtv05_delivery@17436/index_1164_av-p.m3u8
@@ -323,6 +324,80 @@ https://playback.akamaized.net/streams/27460990_8266909_lsigawfu7fu6ogmdlxm_1/me
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w963416714.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/hopechannel.gif" group-title="宗教 RELIGION",CANADA | HOPE CHANNEL
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/lordtv.png" group-title="宗教 RELIGION",CANADA | LORD TV
+http://f.tx.edge.55.christianworldmedia.com:1935/lordtvministries/sm_lordtvministries.smil/chunklist_w1873712217_b569344_slen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/miraclechannel.png" group-title="宗教 RELIGION",CANADA | MIRACLE CHANNEL
+https://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w1297456726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/spirittv.jpg" group-title="宗教 RELIGION",CANADA | SPIRIT TV
+http://f.tx.edge.55.christianworldmedia.com:1935/spirirttv/mp4:spirirttv/chunklist_w1183054585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/tct.png" group-title="宗教 RELIGION",CANADA | TCT HD
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHDHLS/TCTHDHLS_Live_2200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/gracetv.png" group-title="宗教 RELIGION",INDIA | GRACE TV
+http://stream.mslive.in:1935/gracetv/gb783/chunklist_w449363293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gsrepotest.000webhostapp.com/icon/mstv.png" group-title="宗教 RELIGION",INDONESIA | MSTV [COLOR springgreen][I]church service live[/I][/COLOR]
+https://server.mstv.tv/rec/pusatrec/chunklist_w1120429544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gsrepotest.000webhostapp.com/icon/reformed21.png" group-title="宗教 RELIGION",INDONESIA | REFORMED 21 [COLOR red][I]link down[/I][/COLOR]
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/chunklist_b511000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gsrepotest.000webhostapp.com/icon/uchannel.png" group-title="宗教 RELIGION",INDONESIA | U CHANNEL
+http://119.235.249.58:1935/uchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/hopechannel.gif" group-title="宗教 RELIGION",INTERNATIONAL | HOPE CHANNEL
+https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/chc.png" group-title="宗教 RELIGION",SINGAPORE | CHC [COLOR springgreen][I]church service live[/I][/COLOR]
+https://chlive.mmdlive.lldns.net/chlive/245ca0872b7c4bebaa1f4d95a47b5e3a/chunklist_b1364000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/hopechannel.gif" group-title="宗教 RELIGION",TAIWAN | 希望电视台
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://chinese.cgntv.net/upload/happy_config/info_logo.png" group-title="宗教 RELIGION",TAIWAN | CGNTV 中文台
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/goodtv.png" group-title="宗教 RELIGION",TAIWAN | GOODTV 综合台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/goodtv.png" group-title="宗教 RELIGION",TAIWAN | GOODTV 真理台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/170528/1-1F52Q333190-L.png" group-title="宗教 RELIGION",NEW ZEALAND | FIRSTLIGHT TV
+http://streamer1.streamhost.org:1935/salive/GMIFLNL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/godtv.png" group-title="宗教 RELIGION",UK | GOD TV
+https://ooyalahd2-f.akamaihd.net/i/godtv02_delivery@17351/index_3200_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/inspirationtv.png" group-title="宗教 RELIGION",UK | INSPIRATION TV
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/mariantv.jpg" group-title="宗教 RELIGION",UK | MARIAN TV
+http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/3abn.png" group-title="宗教 RELIGION",US | 3ABN INTERNATIONAL
+https://moiptvhls-i.akamaihd.net/hls/live/652312/LQs/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/cbn.png" group-title="宗教 RELIGION",US | CBN
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_2000_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/christianpraiseandworship.jpg" group-title="宗教 RELIGION",US | CHRISTIAN PRAISE & WORSHIP
+http://f.tx.edge.55.christianworldmedia.com:1935/cwmlive3/mp4:cwmlive3/chunklist_w142639092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/cornerstone.png" group-title="宗教 RELIGION",US | CORNERSTONE NETWORK [COLOR red][I]link down[/I][/COLOR]
+https://cdn-media9-truegod.r.worldssl.net/ctvnlive/smil:ctvn.smil/chunklist_w733944701_b728000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/ctn.png" group-title="宗教 RELIGION",US | CTN
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w1770956006_b1764000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/cyc.png" group-title="宗教 RELIGION",US | CYC
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w1043554890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/daystar.png" group-title="宗教 RELIGION",US | DAYSTAR
+https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/divinetv.png" group-title="宗教 RELIGION",US | DIVINE TV 
+https://divineplayout-us2.tulix.tv/live/Stream1/chunklist_w1132994503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/godtv.png" group-title="宗教 RELIGION",US | GOD TV 
+https://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/index_3200_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/hopenow.png" group-title="宗教 RELIGION",US | HOPE NOW [COLOR red][I]link down[/I][/COLOR]
+http://live-cache.trbcmedia.com/TRBC-Edge/smil:43.smil/chunklist_w1214076795_b2690000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/ibn.png" group-title="宗教 RELIGION",US | IBN TV
+http://cdn.media15.truegod.tv/ibn/smil:ibn.smil/chunklist_b1128000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/inspirationtv.png" group-title="宗教 RELIGION",US | INSPIRATION TV
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/lakewoodchurch.png" group-title="宗教 RELIGION",US | LAKEWOOD CHURCH
+https://lakewoodhds-lh.akamaihd.net/i/LWLIVE_HD@178855/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/loveworldusa.png" group-title="宗教 RELIGION",US | LOVEWORLDUSA
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_4728_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/nrbtv.png" group-title="宗教 RELIGION",US | NRB TV
+http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/chunklist_w880032711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/nownetwork.png" group-title="宗教 RELIGION",US | NOW NETWORK
+https://live-h1.frontlayer.net/fl619843/live/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/rhemaword.jpg" group-title="宗教 RELIGION",US | RHEMA WORD TV
+http://my-video-server.com:1935/rhema/rhema.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/watc.png" group-title="宗教 RELIGION",US | WATC TOO TV
+http://watc57rtmp.livestreamingcdn.com/watc57-2/watc57-2/chunklist_w70127093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/wcft.jpg" group-title="宗教 RELIGION",US | WCFT-TV 68
+http://f.tx.edge.40.christianworldmedia.com:1935/wcftlive/mp4:wcftlive250/chunklist_w1547035174.m3u8
 
 ####################################### GOODTV CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch32.jpg" group-title="好消息电视台 GOODTV",真情部落格（短版）
